@@ -168,6 +168,11 @@ ul li #content {
   display: none;
 }
 
+#plans ul li {
+  background-color: white;
+  color: black;
+}
+
 /* social-links */
 
 #social-links {
