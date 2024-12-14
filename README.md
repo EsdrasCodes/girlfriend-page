@@ -40,6 +40,6 @@ Durante o desenvolvimento do projeto, aprofundei meus conhecimentos em:
 
 ## 🔗 Demonstração
 
-Você pode visualizar o projeto em funcionamento clicando [aqui](esdrascodes.github.io/girlfriend-page/).
+Você pode visualizar o projeto em funcionamento clicando [aqui](https://esdrascodes.github.io/girlfriend-page/).
 
 ---
